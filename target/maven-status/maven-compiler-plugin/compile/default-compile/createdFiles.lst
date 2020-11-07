@@ -1,0 +1,10 @@
+com/employee/repositories/EmployeeRepository.class
+com/employee/EmployeeApplication.class
+com/employee/configs/SwaggerConfig.class
+com/employee/controllers/EmployeeController.class
+com/employee/enums/StateMachine.class
+com/employee/entities/Employee.class
+com/employee/dtos/ErrorDTO.class
+com/employee/dtos/EmployeeDTO.class
+com/employee/enums/ErrorStatus.class
+com/employee/services/EmployeeService.class

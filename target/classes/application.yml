@@ -1,0 +1,29 @@
+server:
+  port: 8070
+  servlet:
+    context-path: /employee 
+spring:
+  application:
+    name: employee
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://mysqldb3:3306/employee
+    username: root
+    password: root
+  data:
+    jpa:
+      repositories:
+        enabled: true 
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+      naming:
+        physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
+    generate-ddl: true 
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQL8Dialect #org.hibernate.dialect.MySQLInnoDBDialect
+        format_sql: true
+        enable_lazy_load_no_trans: true
+

@@ -1,0 +1,10 @@
+/Programming/WorkSpaces/microservices/employee-spring-boot/src/main/java/com/employee/EmployeeApplication.java
+/Programming/WorkSpaces/microservices/employee-spring-boot/src/main/java/com/employee/dtos/EmployeeDTO.java
+/Programming/WorkSpaces/microservices/employee-spring-boot/src/main/java/com/employee/enums/StateMachine.java
+/Programming/WorkSpaces/microservices/employee-spring-boot/src/main/java/com/employee/entities/Employee.java
+/Programming/WorkSpaces/microservices/employee-spring-boot/src/main/java/com/employee/configs/SwaggerConfig.java
+/Programming/WorkSpaces/microservices/employee-spring-boot/src/main/java/com/employee/enums/ErrorStatus.java
+/Programming/WorkSpaces/microservices/employee-spring-boot/src/main/java/com/employee/services/EmployeeService.java
+/Programming/WorkSpaces/microservices/employee-spring-boot/src/main/java/com/employee/controllers/EmployeeController.java
+/Programming/WorkSpaces/microservices/employee-spring-boot/src/main/java/com/employee/dtos/ErrorDTO.java
+/Programming/WorkSpaces/microservices/employee-spring-boot/src/main/java/com/employee/repositories/EmployeeRepository.java
